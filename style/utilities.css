@@ -1,0 +1,43 @@
+/* reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* utilities */
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.marbot10 {
+  margin-bottom: 10px;
+}
+
+.marbot15 {
+  margin-bottom: 15px;
+}
+
+.marbot20 {
+  margin-bottom: 20px;
+}
+
+/* colors */
+.ash-color {
+  color: #ccc;
+}
+
+
+
+/* backgrounds */
+.dark-background {
+  background-color: #333;
+}
+
+.ash-background {
+  background-color: #777;
+}
